@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="ScanTest/ScanTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScanTest/ScanTestViewController.cs">
+    <Files>
+      <File FileName="ScanTest/ScanTestViewController.cs" Line="38" Column="1" />
+      <File FileName="ScanTest/Helpers/ScanHelper.cs" Line="66" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jondavis/Projects/ScanTest/ScanTest/ScanTestViewController.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
